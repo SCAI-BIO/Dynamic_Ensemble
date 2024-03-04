@@ -1,4 +1,4 @@
-# Dynamic Ensemble Model for short-term Forecasting in Pandemic Situations - Botz et al.
+# A Dynamic Ensemble Model for short-term Forecasting in Pandemic Situations - Botz et al.
 
 This repository is part of the publication entitled "dynamic ensemble model for short-term forecasting in pandemic situations". In the following we will describe how this repository is organized and how to run the scripts.
 
